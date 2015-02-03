@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ourapp" >
+        <file alias="zoomin_icon">resources/mActionZoomIn.png</file>
+	<file alias="zoomout_icon">resources/mActionZoomOut.png</file>
+	<file alias="pan_icon">resources/Hands-Hand-icon.png</file>
+	<file alias="rectangle_icon">resources/rectangle.png</file>
+	<file alias="XLogo">resources/logoXL.jpg</file>
+	<file alias="destructlogo">resources/destructlogo.png</file>
+	<file alias="ZRlogo">resources/ZRlogo.png</file>
+	<file alias="warning">resources/warning-icon-md.png</file>
+	<file alias="reload">resources/reload.png</file>
+	<file alias="XLlogo_big">resources/logoXL_big.png</file>
+	<file alias="pgdb">resources/pgdb.png</file>
+    </qresource>
+</RCC>
